@@ -13,6 +13,6 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=F38BA8&center=true&vCenter=true&width=450&lines=About+me;Building+Predictive+Models;Computer+Vision+%26+Deep+Learning;Data+Analytics+%26+Dashboards;Playing+Music+%26+Curating+Vibes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=F38BA8&center=true&vCenter=true&width=450&lines=About+me;Building+Predictive+Models;Computer+Vision+%26+Deep+Learning;Data+Analytics+%26+Dashboards;Playing+Guitar+%26+Curating+Vibes)](https://git.io/typing-svg)
 
 </div>
